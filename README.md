@@ -1,6 +1,5 @@
-# CS - 433 : ML Project 1 
-## Detecting the Higgs Boson by analyzing proton collisions
-This is the first project of the EPFL Machine Learining course. In this project, we aim at solving the Higgs Boson classification, a problem posed by the CERN.  
+ # Detecting the Higgs Boson by analyzing proton collisions
+In this project, we aim at solving the Higgs Boson classification, a problem posed by the CERN.  
 
 ## Folders/files 
 In the this folder are the following files: 
